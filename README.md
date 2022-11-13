@@ -242,20 +242,25 @@ Terminal:
 pnpm add @vueuse/core
 ```
 
-#### [AttoJS](https://github.com/AttoJS)/**[vue-request](https://github.com/AttoJS/vue-request)**
+##### [@vueuse/integrations](https://vueuse.org/integrations/readme.html#vueuse-integrations)
 
 Terminal:
 
 ```sh
-pnpm add vue-request
-```
-
-##### [Axios](https://www.axios-http.cn/docs/intro)
-
-Terminal:
-
-```sh
+# useAxios
 pnpm add axios
+# useCookies
+pnpm add universal-cookie
+# useJwt
+pnpm add jwt-decode
+# useNProgress
+pnpm add nprogress
+# useFocusTrap
+pnpm add focus-trap
+# useAsyncValidator
+pnpm add async-validator
+# useIDBKeyval
+pnpm add idb-keyval
 ```
 
 #### [leoforfree](https://github.com/leoforfree)/**[cz-customizable](https://github.com/leoforfree/cz-customizable)**
