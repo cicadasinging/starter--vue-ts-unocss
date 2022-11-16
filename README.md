@@ -1,4 +1,4 @@
-# starter--vite-ts-unocss
+# starter--vue-ts-unocss
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -394,6 +394,6 @@ Terminal:
 ```sh
 git add -A
 git branch -M main
-git remote add origin git@github.com:cicadasinging/starter--vite-ts-unocss.git
+git remote add origin git@github.com:cicadasinging/starter--vue-ts-unocss.git
 pnpm commit
 ```
