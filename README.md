@@ -218,7 +218,7 @@ pnpm add @unocss/reset
 `main.ts`:
 
 ```typescript
-import "@unocss/reset/normalize.css";
+import "@unocss/reset/antfu.css";
 ```
 
 ##### [Icones](https://icones.js.org/)
