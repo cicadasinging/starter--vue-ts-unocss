@@ -207,6 +207,20 @@ export default defineConfig({
 });
 ```
 
+##### Style Resetting
+
+Terminal:
+
+```sh
+pnpm add @unocss/reset
+```
+
+`main.ts`:
+
+```typescript
+import "@unocss/reset/normalize.css";
+```
+
 ##### [Icones](https://icones.js.org/)
 
 Terminal:

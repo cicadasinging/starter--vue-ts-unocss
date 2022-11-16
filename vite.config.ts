@@ -12,7 +12,7 @@ export default defineConfig({
     vue(),
     AutoImport({
       dirs: ["src/apis", "src/composables", "src/stores", "src/utils"],
-      imports: ["vue", "vue-router", "pinia", { axios: [["default", "axios"]] }],
+      imports: ["vue", "vue-router", "pinia", "@vueuse/core", { axios: [["default", "axios"]] }],
       dts: true,
       eslintrc: { enabled: true },
     }),
